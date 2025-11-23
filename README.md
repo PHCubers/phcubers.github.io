@@ -1,4 +1,4 @@
-# PHLogicians.github.io
+# PHCubers.github.io
 
 ## 1. Quick Start (for organization members)
 
@@ -6,8 +6,8 @@
 
 ```
 # 1 · clone this repository
-git clone https://github.com/PHLogicians/phlogicians.github.io
-cd phlogicians.github.io
+git clone https://github.com/PHCubers/phcubers.github.io
+cd phcubers.github.io
 
 # 2 · install gems into .bundle/ (no sudo required)
 bundle config set --local path '.bundle'

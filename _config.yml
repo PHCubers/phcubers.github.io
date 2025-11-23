@@ -3,12 +3,12 @@ minima:
   skin: auto
   nav_pages:
     - index.md
-    - lectures.md
+    - notes.md
     - resources.md
     - ph-ormula.md
-title: PHLogicians
-description: Website for PHLogicians
-url: "https://phlogicians.github.io"
+title: PHCubers
+description: Website for PHCubers
+url: "https://phcubers.github.io"
 exclude:
   - README.md
   - _site/
