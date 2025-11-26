@@ -16,7 +16,7 @@ toc: true
 - [J Perm YouTube Channel](https://www.youtube.com/@JPerm/playlists)
 	- 2x2, big cubes, blindfolded, miscellaneous
 
-## Roux
+## Rouxsources
 
 - [Kian Mansour Youtube Channel](https://www.youtube.com/@Kian_Mansour)
 - [Seminar: Roux vs. CFOP - A Method Comparison - Kian Mansour [Best in the West 2018]](https://youtu.be/81XdAt5m1uc)
