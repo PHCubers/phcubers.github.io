@@ -15,6 +15,7 @@ toc: true
 
 - [J Perm YouTube Channel](https://www.youtube.com/@JPerm/playlists)
 	- 2x2, big cubes, blindfolded, miscellaneous
+- [CSTimer](https://cstimer.net/)
 
 ## Rouxsources
 
