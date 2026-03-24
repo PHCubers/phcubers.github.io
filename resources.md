@@ -30,6 +30,10 @@ toc: true
 - [The best PLL alg sheet by J Perm](https://jperm.net/algs/pll)
 - [OLL alg sheet by J Perm](https://jperm.net/algs/oll)
 
+## ZB
+
+- [ZBLL Explorer](https://pepkin88.me/zbll-explorer/)
+
 ## Blindfolded solving
 
 - [J Perm Blindfolded Tutorial](https://www.youtube.com/watch?v=ZZ41gWvltT8&list=PLI24ciRbl8BUXyPgDEfumkHUDh0IZaqPB)
