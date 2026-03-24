@@ -14,7 +14,7 @@ toc: true
 ## General
 
 - [J Perm YouTube Channel](https://www.youtube.com/@JPerm/playlists)
-	- 2x2, big cubes, blindfolded, miscellaneous
+  - 2x2, big cubes, blindfolded, miscellaneous
 - [CSTimer](https://cstimer.net/)
 
 ## Rouxsources
@@ -25,7 +25,12 @@ toc: true
 - [EOLR Tutorial by Kian](https://www.youtube.com/watch?v=LX4kYeWVoII&list=PLBHocHmPzgIiUBTa7Hs3-xcrBKavfD_zX)
 - [Text Tutorial and Algorithm Sheets by Kian](https://sites.google.com/view/kianroux/home)
 
+## CFOP
+
+- [The best PLL alg sheet by J Perm](https://jperm.net/algs/pll)
+- [OLL alg sheet by J Perm](https://jperm.net/algs/oll)
+
 ## Blindfolded solving
 
 - [J Perm Blindfolded Tutorial](https://www.youtube.com/watch?v=ZZ41gWvltT8&list=PLI24ciRbl8BUXyPgDEfumkHUDh0IZaqPB)
-	- Recommend to start from M2+Orozco if already experienced in regular 3x3
+  - Recommend to start from M2+Orozco if already experienced in regular 3x3
