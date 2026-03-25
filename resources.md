@@ -28,6 +28,7 @@ toc: true
 ## CFOP
 
 - [The best PLL alg sheet by J Perm](https://jperm.net/algs/pll)
+  - [E perm orientation guide (Reddit thread)](https://old.reddit.com/r/Cubers/comments/t6qt6i/how_to_figure_out_orientation_of_e_perm/)
 - [OLL alg sheet by J Perm](https://jperm.net/algs/oll)
 
 ## ZB
